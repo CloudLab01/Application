@@ -1,0 +1,9 @@
+name: Application workflow
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - echo: Hello World!
