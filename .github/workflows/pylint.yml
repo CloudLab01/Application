@@ -25,6 +25,3 @@ jobs:
     - name: Testing
       run: |
         pytest
-      env:
-        GREETING: "Hello World"
-      shell: bash
