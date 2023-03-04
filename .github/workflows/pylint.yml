@@ -28,5 +28,3 @@ jobs:
       env:
         GREETING: "Hello World"
       shell: bash
-    - name: Set output variable
-      run: echo "GREETING=$GREETING" >> $GITHUB_ENV
