@@ -25,3 +25,7 @@ jobs:
     - name: Testing
       run: |
         pytest
+    - name: Set environment variables
+      env:
+        GREETING: "Hello, World!"
+      run: echo "GREETING=$GREETING" >> $GITHUB_ENV
