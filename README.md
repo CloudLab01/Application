@@ -2,7 +2,7 @@
   <hr>  
   <h1> Flask - Heroku - Locust </h1>
   <img src="./images/flask-logo.png" height="150"/>
-  <img src="./images/heroku-logo.png" width="150"/>  
+  <img src="./images/heroku-logo.png" height="150"/>  
   <img src="./images/locust-logo.png" width="150"/>
 </div>
 <hr>
