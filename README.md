@@ -1,10 +1,11 @@
 <div align="center">
-  <h1> Flask - Heroku - Locust </h1>
   <hr>  
+  <h1> Flask - Heroku - Locust </h1>
   <img src="./images/flask-logo.png" height="150"/>
   <img src="./images/heroku-logo.png" width="150"/>  
   <img src="./images/locust-logo.png" width="150"/>
 </div>
+<hr>
 This app is a basic flask app which is created for educational purposes. 
 
 ## Goals of the task 
